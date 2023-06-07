@@ -6,21 +6,21 @@ this repo is designed to store and organize the modules from python progamming c
 
 
 Module list
-1.
-2.
-3.
-4.
-5.
-6.
-7.
-8.
-9.
-10.
-11.
-12.
-13.
-14.
-15.
-16.
+1. /n
+2./n
+3./n
+4./n
+5./n
+6./n
+7./n
+8./n
+9./n
+10./n
+11./n
+12./n
+13./n
+14./n
+15./n
+16./n
 
 
