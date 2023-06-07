@@ -6,21 +6,21 @@ this repo is designed to store and organize the modules from python progamming c
 
 
 Module list
-1. /n
-2./n
-3./n
-4./n
-5./n
-6./n
-7./n
-8./n
-9./n
-10./n
-11./n
-12./n
-13./n
-14./n
-15./n
-16./n
+1.Chapter 02 Data
+2.Chapter 03 Control
+3.Chapter 04 Functions
+4.Chapter 05 Lists and Tuples
+5.Chapter 06 and 08 Dictionary Sets and Strigns
+6.Chapter 07 Numpy
+7.Chapter 08 Strings
+8.Chapter 08 Regex
+9.Chapter 9 Files
+10.Chapter 10 Object Oriented Programming
+11.Chapter 11Threads
+12.Chapter 12 Machine Learning  
+13.Assignments
+14.Pictures
+15.References
+
 
 
