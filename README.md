@@ -1,9 +1,7 @@
-# pythonclass
+# PythonClass
 Python programming class for data science students
 
-
-This repo is designed to store and organize the modules from python progamming course for data scientists. once the ourse materials are completed the files will be made open to the public. until then it will act as a storage system. 
-
+This repo is designed to store and organize the modules from python progamming course for data scientists. once the course materials are completed the files will be made public. 
 
 Module list
 
